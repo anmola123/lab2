@@ -1,4 +1,11 @@
 /* applies to anything of class "example-class-selector" */
+.project {
+     margin-left: 20 px
+     background-color: #deebf7
+     padding: 20 px;
+     width: 525 px;
+}
+
 .example-class-selector {
 	margin-top: 2em;
 }
